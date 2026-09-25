@@ -8,7 +8,7 @@ const restaurants = [
     { name: "Domino's", budget: "cheap", emoji: "🍕", location: "Delivery to campus" },
     { name: "Tim Hortons", budget: "cheap", emoji: "☕", location: "Henrietta" },
     { name: "Wegmans Food Court", budget: "cheap", emoji: "🛒", location: "Calkins Rd" },
-    { name: "Five Guys", budget: "cheap", emoji: "🍔", location: "Marketplace Mall" },
+    { name: "Crossroads", budget: "cheap", emoji: "🍜", location: "RIT Global Village" },
     
     // Mid-range ($) - RIT student favorites
     { name: "MacGregor's Grill & Tap", budget: "mid", emoji: "🍺", location: "Jefferson Rd" },
