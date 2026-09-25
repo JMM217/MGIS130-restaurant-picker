@@ -4,16 +4,16 @@
    A commit that says "Switch accent to blue" is a real commit.
    ========================================================== */
 :root {
-    --accent: #F76902;        /* buttons, highlights. Try #009CBD or #7D55C7 */
-    --ink: #1F1F1F;           /* main text */
-    --muted: #6B7280;         /* secondary text */
-    --paper: #FFFFFF;         /* the card */
-    --background: #F3F4F6;    /* the page behind the card */
-    --line: #E5E7EB;          /* borders and rules */
-    --radius: 6px;            /* corner rounding, everywhere */
+    --accent: #003399;        /* Everton Royal Blue (primary actions, focus states, headers) */
+    --accent-gold: #FFC20E;   /* Secondary accent (badges, subtle highlights, active states) */
+    --ink: #0F172A;           /* Deep dark navy-slate for text (cleaner contrast than pure black) */
+    --muted: #64748B;         /* Slate secondary text */
+    --paper: #FFFFFF;         /* Pure white cards/containers */
+    --background: #F1F5F9;    /* Very soft cool-gray page backdrop */
+    --line: #E2E8F0;          /* Clean border lines */
+    --radius: 6px;            /* Corner rounding */
     --font: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
 }
-
 /* ---------- base ---------- */
 * {
     margin: 0;
